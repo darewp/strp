@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "franchises",
+  "info": {
+    "singularName": "franchise",
+    "pluralName": "franchises",
+    "displayName": "Franchise"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "franchise_name": {
+      "type": "string"
+    }
+  }
+}

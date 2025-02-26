@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "brokers",
+  "info": {
+    "singularName": "broker",
+    "pluralName": "brokers",
+    "displayName": "Brokers"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "broker_name": {
+      "type": "string"
+    }
+  }
+}
